@@ -5,5 +5,5 @@ Augmented reality app for Restaurant\
 -Machine Learning\
 -Firebase storage\
 -Firebase Authentication\
--SQLite\
+-SQLite
 

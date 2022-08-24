@@ -1,5 +1,5 @@
 # AR-App
-Augmented reality app for Restaurant\
+Augmented reality app for Restaurant
 > Tech Stack
 > \
 /**\
